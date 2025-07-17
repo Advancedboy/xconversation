@@ -32,8 +32,3 @@
 - 🔐 Auth-protected routes
 - 📱 Responsive UI (optional, WIP)
 - 📡 Planned: real-time updates with WebSockets
-
----
-
-## 📁 Project Structure
-
